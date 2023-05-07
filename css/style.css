@@ -1,0 +1,84 @@
+#Bishkek:checked~.Osh,
+#Bishkek:checked~.Kara-Kol,
+#Bishkek:checked~.Talas,
+#Bishkek:checked~.Naryn,
+#Bishkek:checked~.Jalal-Abad,
+#Bishkek:checked~.Batken {
+    display: none;
+}
+
+#Osh:checked~.Bishkek,
+#Osh:checked~.Kara-Kol,
+#Osh:checked~.Talas,
+#Osh:checked~.Naryn,
+#Osh:checked~.Jalal-Abad,
+#Osh:checked~.Batken {
+    display: none;
+}
+#Kara-Kol:checked~.Osh,
+#Kara-Kol:checked~.Bishkek,
+#Kara-Kol:checked~.Talas,
+#Kara-Kol:checked~.Naryn,
+#Kara-Kol:checked~.Jalal-Abad,
+#Kara-Kol:checked~.Batken {
+    display: none;
+}
+#Talas:checked~.Osh,
+#Talas:checked~.Kara-Kol,
+#Talas:checked~.Bishkek,
+#Talas:checked~.Naryn,
+#Talas:checked~.Jalal-Abad,
+#Talas:checked~.Batken {
+    display: none;
+}
+#Naryn:checked~.Osh,
+#Naryn:checked~.Kara-Kol,
+#Naryn:checked~.Talas,
+#Naryn:checked~.Bishkek,
+#Naryn:checked~.Jalal-Abad,
+#Naryn:checked~.Batken {
+    display: none;
+}
+#Jalal-Abad:checked~.Osh,
+#Jalal-Abad:checked~.Kara-Kol,
+#Jalal-Abad:checked~.Talas,
+#Jalal-Abad:checked~.Naryn,
+#Jalal-Abad:checked~.Bishkek,
+#Jalal-Abad:checked~.Batken {
+    display: none;
+}
+#Batken:checked~.Osh,
+#Batken:checked~.Kara-Kol,
+#Batken:checked~.Talas,
+#Batken:checked~.Naryn,
+#Batken:checked~.Jalal-Abad,
+#Batken:checked~.Bishkek {
+    display: none;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+input{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
